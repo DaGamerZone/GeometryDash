@@ -1,1 +1,1 @@
-IT FINALY WORKS GUYS. YOU CAN FORK IF YOU WANT IDGAF.
+A working clone of Geometry Dash lite with no ads. Please fork if you want and try give credit.
